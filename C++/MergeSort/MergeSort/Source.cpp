@@ -14,6 +14,7 @@ typedef struct node
 	node *next;             // the reference to the next node
 };
 struct node* RandomList(struct node* RandomList);
+struct node* FileInsert(string path, struct node* vectorList);
 void MergeSort(struct node** headRef);
 struct node* Merge(node* a, node* b);
 void Split(node* source, node** frontRef, node** backRef);
@@ -47,6 +48,7 @@ int main()
 		MergeSort(&vectorList);
 		Print(vectorList);
 		cout << "\n";
+
 		break;
 	case '2': //create a random list 
 		randomList = RandomList(randomList);
