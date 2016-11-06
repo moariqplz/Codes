@@ -48,7 +48,6 @@ int main()
 		MergeSort(&vectorList);
 		Print(vectorList);
 		cout << "\n";
-
 		break;
 	case '2': //create a random list 
 		randomList = RandomList(randomList);
@@ -111,7 +110,7 @@ struct node* FileInsert(string path, struct node* vectorList)
 struct node* RandomList(struct node* randomList)
 { 
 		int randomNumber;
-		for (int i = 0; i < 20; i++) //for loop for creating the 20 random numbers
+		for (int i = 0; i < 1000; i++) //for loop for creating the 20 random numbers
 		{
 			randomNumber = rand() % 100 + 1; //creating a random number between 1 and 100
 			Insert(&randomList, randomNumber); //inserting the random numbers
