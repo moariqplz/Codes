@@ -17,7 +17,7 @@ DoublyLinkedList::DoublyLinkedList()
 			head = temp;
 			tail = temp;
 		}
-		else // otherwise do thsi
+		else
 		{
 			temp->next = head;
 			head->prev= temp;
@@ -36,7 +36,7 @@ DoublyLinkedList::DoublyLinkedList()
 			head = temp;
 			tail = temp;
 		}
-		else // otherwise do thsi
+		else
 		{
 			temp->prev = tail;
 			tail->next = temp;
@@ -55,17 +55,17 @@ DoublyLinkedList::DoublyLinkedList()
 		}
 	}
 
-	int DoublyLinkedList::PeekFirst()
+	int DoublyLinkedList::PeekFirst() // looks at heads data
 	{
 		return head->data;
 	}
 
-	int DoublyLinkedList::PeekLast()
+	int DoublyLinkedList::PeekLast() //peeks tails data
 	{
 		return tail->data;
 	}
 
-	int DoublyLinkedList::RemoveFirst()
+	int DoublyLinkedList::RemoveFirst() //removes first
 	{
 		node* temp = new node();
 		temp = head;
@@ -75,7 +75,7 @@ DoublyLinkedList::DoublyLinkedList()
 		return temp->data;
 	}
 
-	int DoublyLinkedList::RemoveLast()
+	int DoublyLinkedList::RemoveLast() // Removes last
 	{
 		node* temp = new node();
 		temp = tail;
@@ -85,24 +85,20 @@ DoublyLinkedList::DoublyLinkedList()
 		return temp->data;
 	}
 
-	bool DoublyLinkedList::isEmpty()
+	bool DoublyLinkedList::isEmpty() // Checks if it is empty
 	{
 		return size == 0;
 	}
 
-	std::string DoublyLinkedList::clear()
+	std::string DoublyLinkedList::clear() //Clears the list out 
 	{
 
-		while (!tail->prev == NULL)
+		while (!tail->prev == NULL) //Runs a while loop and just calls  removes last
 		{
-			node* temp = new node();
-			temp = tail;
-			tail = tail->prev;
-			tail->next = NULL;
-			
+			this->RemoveLast();
 		}
-		tail = NULL;
-		size = 0;
+		tail = NULL; //sets last value to NULL 
+		size = 0; //makes sure size is 0
 		return "Cleared List";
 	}
 	
