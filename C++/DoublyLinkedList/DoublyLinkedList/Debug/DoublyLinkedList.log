@@ -1,4 +1,0 @@
-﻿  DoublyLinkedList.cpp
-c:\users\shelb\documents\visual studio 2015\projects\doublylinkedlist\doublylinkedlist\doublylinkedlist.h(11): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
-  DoublyLinkedList.vcxproj -> c:\users\shelb\documents\visual studio 2015\Projects\DoublyLinkedList\Debug\DoublyLinkedList.exe
-  DoublyLinkedList.vcxproj -> c:\users\shelb\documents\visual studio 2015\Projects\DoublyLinkedList\Debug\DoublyLinkedList.pdb (Full PDB)
