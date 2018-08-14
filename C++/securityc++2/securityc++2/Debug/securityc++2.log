@@ -1,0 +1,4 @@
+﻿  Source.cpp
+  Source.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  securityc++2.vcxproj -> C:\Users\Alex\documents\visual studio 2015\Projects\securityC++2\Debug\securityc++2.exe
+  securityc++2.vcxproj -> C:\Users\Alex\documents\visual studio 2015\Projects\securityC++2\Debug\securityc++2.pdb (Partial PDB)

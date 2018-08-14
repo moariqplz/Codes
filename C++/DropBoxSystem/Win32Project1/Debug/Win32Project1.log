@@ -1,0 +1,93 @@
+﻿  regForm1.cpp
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(6): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(6): error C2871: 'ComponentModel': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(7): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(7): error C2871: 'Collections': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(8): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(8): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(9): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(9): error C2871: 'Data': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(10): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(10): error C2871: 'Drawing': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(15): error C2059: syntax error: 'public'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(15): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(16): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(16): error C2447: '{': missing function header (old-style formal list?)
+  MyForm.cpp
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(6): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(6): error C2871: 'ComponentModel': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(7): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(7): error C2871: 'Collections': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(8): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(8): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(9): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(9): error C2871: 'Data': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(10): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(10): error C2871: 'Drawing': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(15): error C2059: syntax error: 'public'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(15): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(16): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\regform1.h(16): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(6): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(6): error C2871: 'ComponentModel': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(7): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(7): error C2871: 'Collections': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(8): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(8): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(9): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(9): error C2871: 'Data': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(10): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(10): error C2871: 'Drawing': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(12): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(12): error C2871: 'Diagnostics': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(19): error C2059: syntax error: 'public'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(19): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(20): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(20): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(7): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(8): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(8): error C2871: 'ComponentModel': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(9): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(9): error C2871: 'Collections': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(10): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(10): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(11): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(11): error C2871: 'Data': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(12): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(12): error C2871: 'Drawing': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(17): error C2059: syntax error: 'public'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(17): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(18): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.h(18): error C2447: '{': missing function header (old-style formal list?)
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(6): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(6): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(9): warning C4467: usage of ATL attributes is deprecated
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(9): error C2337: 'STAThread': attribute not found
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(10): error C2065: 'array': undeclared identifier
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(10): error C2065: 'String': undeclared identifier
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(10): error C2059: syntax error: '>'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(11): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\myform.cpp(11): error C2447: '{': missing function header (old-style formal list?)
+  FileBox.cpp
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(5): error C2871: 'System': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(6): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(6): error C2871: 'ComponentModel': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(7): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(7): error C2871: 'Collections': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(8): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(8): error C2871: 'Forms': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(9): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(9): error C2871: 'Data': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(10): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(10): error C2871: 'Drawing': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(12): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(12): error C2871: 'Diagnostics': a namespace with this name does not exist
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(19): error C2059: syntax error: 'public'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(19): error C2653: 'System': is not a class or namespace name
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(20): error C2143: syntax error: missing ';' before '{'
+c:\users\shelb\desktop\programming\c++\win32project1\win32project1\filebox.h(20): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

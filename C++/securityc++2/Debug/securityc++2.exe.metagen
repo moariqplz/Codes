@@ -1,0 +1,12 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly securityc++2, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Service: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    EncryptText(UTF8Encoding, String): PrivateScope, Public, HideBySig
+    DecryptText(UTF8Encoding, Byte[]): PrivateScope, Public, HideBySig
